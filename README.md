@@ -1,2 +1,3 @@
 # test
-Practising use of merging branch
+Practising use of merging branch.
+Commit changes for pull request.
