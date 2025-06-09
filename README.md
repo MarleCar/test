@@ -1,3 +1,2 @@
 # test
-Practising use of merging branch.
-Commit changes for pull request.
+Practising use of moving a folder out into a new repo
